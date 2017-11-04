@@ -1,5 +1,5 @@
 # Amandine MEEUS
-## Gestion culturelle et administrative - Copywriting - Communication - Webmaster - Infographie
+## Web development - Cultural managment - Copywriting - Langues et lettre françaises et romanes
 ### CONTACT 
 + amandine.meeus@alumni.ulb.be
 + Rue Berré, 10 - 1090 Bruxelles
