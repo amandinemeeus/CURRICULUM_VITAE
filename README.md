@@ -1,10 +1,6 @@
 # Amandine MEEUS
 ## Web development - Cultural managment - Copywriting - Langues et lettre françaises et romanes
-### CONTACT 
-+ amandine.meeus@alumni.ulb.be
-+ Rue Berré, 10 - 1090 Bruxelles
-+ 02/425.07.13
-+ Permis B
+
 ### ETUDES ET FORMATIONS
 + **Centre scolaire du Sacré-Coeur de Jette.** Enseignement secondaire général supérieur: Néerlandais (4), Mathématique (6), Sciences (3), Latin (4).
 + **Bachelier en Langues et littératures françaises et romanes**, mineure en Information et communication: cycle réussi avec distinction.
