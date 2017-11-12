@@ -1,7 +1,7 @@
 # Amandine MEEUS
 ## Web development - Cultural managment - Copywriting - Langues et lettre françaises et romanes
 
-### ETUDES ET FORMATIONS
+### ETUDES
 + **Centre scolaire du Sacré-Coeur de Jette.** Enseignement secondaire général supérieur: Néerlandais (4), Mathématique (6), Sciences (3), Latin (4).
 + **Bachelier en Langues et littératures françaises et romanes**, mineure en Information et communication: cycle réussi avec distinction.
 Université Saint-Louis (Bruxelles), Faculté de Philosophie, Lettres et Sciences humaines.
