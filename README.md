@@ -28,6 +28,6 @@
 
 >des yeux attentifs, 
 
->une vie : la vie à se partager.'
+>une vie : la vie à se partager.
 
 
