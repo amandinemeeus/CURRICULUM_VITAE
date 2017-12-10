@@ -1,5 +1,3 @@
-“Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.” ― Jalaluddin Mevlana Rumi
-
 ### Paul Éluard (1895-1952) in *Derniers poèmes d’amour*
 
 *******************************************************
