@@ -30,4 +30,14 @@
 
 >une vie : la vie à se partager.
 
+### Franz Kafka (1883 - 1924) in *La Métamorphose*
 
+*******************************************************
+
+>Détruis-toi pour te connaître. 
+
+>Construis-toi pour te surprendre, 
+
+>l'important n'est pas d'être, 
+
+>mais de devenir.
